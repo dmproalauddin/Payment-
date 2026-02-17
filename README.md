@@ -5,7 +5,7 @@ The Geek Squad 1-Year subscription payment of $348.37 USD has been successfully 
 Product Details
 Transaction ID: LOS-SF65-87S
 Invoice No: #INV-SD9-SFD-DG59
-Current Plan: 1-Year Subscription
+Current Plan: 1-Year Subscription.
 Help Line: +1 (838) 265-5573
 
 If in case, you didn't authorize this purchase, please reach us at +1 (838) 265-5573 to cancel the subscription.
