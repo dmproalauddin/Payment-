@@ -1,5 +1,3 @@
-$348.37 USD has been successfully
-
 The Geek Squad 1-Year subscription payment of $348.37 USD has been successfully completed. If you believe this transaction was denied, you should get in touch with support by February 17, 2026. After this date, the payment is not refundable.
 
 Product Details
